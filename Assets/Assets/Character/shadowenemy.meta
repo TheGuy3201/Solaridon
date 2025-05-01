@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 05617c362f66f72429a279e0e5f43481
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e30d52fd7faf3419c65075c4474d76
+      internalID: 759606135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_1"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 685
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af243210d1908854a9c2bb54d121018e
+      internalID: -1246173384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_2"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 685
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db927959b02f6847bf280959d705069
+      internalID: 2120577259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_3"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 685
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2135fc1bc3be3174cae040d489430f65
+      internalID: 343958098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_4"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 685
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125b0ff2c0c0a347b11638f5ba4178c
+      internalID: 546478826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_5"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 685
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64fd9ff00e61a4ea5c5866fab295b6
+      internalID: -2074015248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc66666ba3be3c48b749a51b5d4080e
+      internalID: 1143615726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_7"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 548
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3050a1d4a8e14fb11fb544107cd0f
+      internalID: -737665905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_8"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 548
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d7e84e1f6dd8438b1b8260531f2c9
+      internalID: -1690488062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_9"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 548
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4ee077b4a60541901fa7982dd141f
+      internalID: 1196374725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_10"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 548
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986fe86fd7dfdd42b50910289e0c673
+      internalID: 146104134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_11"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 548
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed0757c82b2ba45b236797794a5717
+      internalID: 674125076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602feb2d0cb6a24aa6f26bdc243dd83
+      internalID: 1800104357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_13"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 411
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df1fbaa0ba94b54cac2762bd8cb83cd
+      internalID: -1436392597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_14"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 411
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8635a417903a42a00af5e4d9ae7e2
+      internalID: -1567684310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_15"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 411
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ad50dfddf9474cbe546eaa93c2365
+      internalID: 1113475240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_16"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 411
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7b1115f77490438e71485a107c253
+      internalID: 357007225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_17"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 411
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1afbce61694142a8c8aa90d7a0065
+      internalID: 484028257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2587aed827615b649b79bb40df9fb57f
+      internalID: 233422000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_19"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd8b8cb65c2b2c4fa35fb1b1a91332c
+      internalID: 1461914175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_20"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 274
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe3dd759abda14f8865b5b3a1d2e25
+      internalID: 692015089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_21"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 274
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002d9a350120464a9413c2bfe9cfcef
+      internalID: 1898448769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_22"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 274
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae16b9e551f028e468c51ce3bc50db04
+      internalID: -1819702174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_23"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 274
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6dd4b7b917604fa64a4b774cd8422
+      internalID: -206466771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37512cbfe1ba9ab49879ffd803d9a888
+      internalID: 2073912508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_25"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 137
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b931ca2d861b9419dec67785c116ad
+      internalID: 1975343629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_26"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 137
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf78d70ee868e47881977c7d60f0fb
+      internalID: -797352551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_27"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 137
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5dcc5aa907454a84c613f717e718b
+      internalID: 1173906909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_28"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 137
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b0691e288bd04ea64b0368dc433ac
+      internalID: 1666493565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_29"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 137
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024f17c118db7946bf0143743628433
+      internalID: 710348966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f8aac1b9a1f9b4da53013601d9e686
+      internalID: 618921304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_31"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c15a2bd6329fd40a321730904d64db
+      internalID: 671576669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_32"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca45061569456e43a92704780ed72e4
+      internalID: 2092142651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_33"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f193e9e348c67c148af88afdb8a89ed8
+      internalID: 1699660204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_34"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6573da63f81a4aae738215b773d2b
+      internalID: 98643551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026
+        _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_35"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bb87ab69c9bb346a7e9ff71efd4f0b
+      internalID: 410961358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_0": 759606135
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_1": -1246173384
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_10": 146104134
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_11": 674125076
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_12": 1800104357
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_13": -1436392597
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_14": -1567684310
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_15": 1113475240
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_16": 357007225
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_17": 484028257
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_18": 233422000
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_19": 1461914175
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_2": 2120577259
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_20": 692015089
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_21": 1898448769
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_22": -1819702174
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_23": -206466771
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_24": 2073912508
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_25": 1975343629
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_26": -797352551
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_27": 1173906909
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_28": 1666493565
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_29": 710348966
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_3": 343958098
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_30": 618921304
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_31": 671576669
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_32": 2092142651
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_33": 1699660204
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_34": 98643551
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_35": 410961358
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_4": 546478826
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_5": -2074015248
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_6": 1143615726
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_7": -737665905
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_8": -1690488062
+      "Unity3D_ Animating 2D Sprites. Using the animation system in Unity is\u2026 _ by Gabriel Perez _ Medium - Opera 2023-11-02 6_56_58 PM_9": 1196374725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

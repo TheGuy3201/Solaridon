@@ -5,11 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bullet
-  - Gun
-  - Keycard
-  - AI Character
-  - AI Bullet
-  - AI Boss
   layers:
   - Default
   - TransparentFX
