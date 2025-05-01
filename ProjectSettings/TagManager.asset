@@ -7,9 +7,6 @@ TagManager:
   - Bullet
   - Gun
   - Keycard
-  - AI Character
-  - AI Bullet
-  - AI Boss
   layers:
   - Default
   - TransparentFX
