@@ -16,12 +16,12 @@ public class shoot : MonoBehaviour
     {
         if(Input.GetButtonDown("Fire1") && timer > shootSpeed)
         {
-            Shoot();
+            Shooter();
         }
         timer += Time.deltaTime;
 
     }
-    void Shoot()
+    void Shooter()
     {
        GameObject bullet = Instantiate(bulletprefab, firepoint.position, firepoint.rotation);
        Rigidbody2D rb= bullet.GetComponent<Rigidbody2D>();
